@@ -1,0 +1,475 @@
+Job Title,Company,Location,Skills,Date Posted,Stream,Salary_Range,Experience_Level
+DevOps Engineer,Martinez Inc,East Laura,aws;jenkins;docker;python;linux,09-07-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,Jacobs PLC,Carneyborough,docker;python;aws;bash;linux;ci/cd;jenkins;kubernetes;terraform,19-02-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,Adams and Sons,Samuelton,python;terraform;bash;jenkins;kubernetes;aws;ci/cd;docker;linux,25-05-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,Moore Inc,Lozanofort,aws;java;git;docker;rest api;spring,08-05-2025,Software Engineering,$90k-$120k,Mid
+Full Stack Developer,Glenn-Hernandez,Port Jaredberg,javascript;git;css;express;html;mongodb;node.js,21-05-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,Hampton Inc,Jenniferfurt,python;firewall;cryptography;penetration testing;wireshark;network security;linux,16-02-2025,Cyber Security,$105k-$135k,Senior
+Software Engineer,"Novak, Ward and Pacheco",Port Andrewton,spring;git;rest api;java;docker;aws;microservices,23-02-2025,Software Engineering,$90k-$120k,Mid
+Cybersecurity Specialist,"Myers, Hoffman and Elliott",Warnerville,penetration testing;firewall;wireshark;cryptography;python;linux,06-02-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,Jackson-Wilkins,South Christopher,kubernetes;terraform;docker;bash;linux,27-05-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,Jones-Roberts,Lyonsfurt,terraform;linux;python;aws;docker;bash;jenkins;kubernetes;ci/cd,19-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,"Brady, Romero and Sawyer",Michaelbury,docker;aws;rest api;git;kubernetes;java;spring,30-06-2025,Software Engineering,$90k-$120k,Mid
+Software Engineer,Harrison-Wilkins,West Amberbury,git;kubernetes;docker;microservices;spring;java;aws,12-07-2025,Software Engineering,$90k-$120k,Mid
+Cybersecurity Specialist,Williams Ltd,Stevenfurt,cryptography;network security;penetration testing;python;firewall,18-04-2025,Cyber Security,$105k-$135k,Senior
+Full Stack Developer,Grant Group,Baldwinshire,rest api;express;css;html;git,01-06-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,George Group,East Rebecca,react;css;rest api;mongodb;node.js,07-07-2025,Web Development,$85k-$110k,Mid
+ML Engineer,Lee-Ellis,North Stephaniemouth,tensorflow;deep learning;python;pytorch;computer vision;nlp,28-03-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Senior Data Scientist,Brock-Nelson,Brucemouth,pandas;sql;machine learning;tensorflow;python;scikit-learn;numpy,01-04-2025,Data Science & Analytics,$120k-$150k,Senior
+Senior Data Scientist,"Smith, Chung and Strickland",North Tylerton,scikit-learn;tensorflow;machine learning;sql;python,04-06-2025,Data Science & Analytics,$120k-$150k,Senior
+Full Stack Developer,Dean Inc,Newmanport,react;git;rest api;javascript;css,03-07-2025,Web Development,$85k-$110k,Mid
+Software Engineer,Vasquez Inc,East Sabrina,microservices;rest api;kubernetes;aws;docker;java;git;spring,24-04-2025,Software Engineering,$90k-$120k,Mid
+DevOps Engineer,Crawford-Robinson,South Jasmine,bash;ci/cd;aws;docker;linux;python;jenkins,30-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Full Stack Developer,"Reeves, Leon and Adams",East Andrewview,html;express;javascript;rest api;mongodb;react;css;node.js;git,17-07-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Powell Group,Amandashire,css;git;react;express;rest api;html,03-06-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,"Reese, Guerrero and Scott",Burnsmouth,cryptography;linux;penetration testing;network security;wireshark;python,06-05-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,Casey-Cannon,Reesehaven,business analysis;power bi;requirements gathering;sql;jira;agile;excel;tableau,08-07-2025,Business Analysis,$70k-$95k,Mid
+Software Engineer,"May, Berry and Alvarado",Smithmouth,docker;kubernetes;rest api;spring;aws;java,25-05-2025,Software Engineering,$90k-$120k,Mid
+Business Analyst,"Williams, Little and Boyer",Lewisstad,excel;agile;jira;sql;requirements gathering;tableau,19-03-2025,Business Analysis,$70k-$95k,Mid
+Cybersecurity Specialist,"Dixon, Garcia and Lynch",New Jamesfurt,network security;penetration testing;wireshark;linux;python,03-04-2025,Cyber Security,$105k-$135k,Senior
+Software Engineer,"Brock, Foster and Burns",West Ryanbury,java;spring;docker;rest api;aws;git;microservices;kubernetes,18-04-2025,Software Engineering,$90k-$120k,Mid
+DevOps Engineer,"Schaefer, Williams and Chan",Nelsonstad,bash;kubernetes;docker;ci/cd;python;aws;linux;terraform;jenkins,21-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,"Swanson, Ferrell and Sanchez",Banksview,machine learning;python;numpy;tensorflow;sql;scikit-learn;statistics;pandas,23-04-2025,Data Science & Analytics,$120k-$150k,Senior
+Senior Data Scientist,Matthews LLC,Garciabury,python;numpy;statistics;pandas;machine learning;sql,13-06-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,Wade-Mason,East Gary,terraform;jenkins;ci/cd;docker;kubernetes;python;linux,17-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,"Valdez, Rios and Zavala",Dianemouth,sql;python;numpy;statistics;machine learning;tensorflow;scikit-learn;pandas,03-06-2025,Data Science & Analytics,$120k-$150k,Senior
+ML Engineer,Simpson Inc,Porterton,tensorflow;deep learning;nlp;pytorch;computer vision;python,15-02-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Cybersecurity Specialist,"Jackson, Dean and Rhodes",North Anthonyside,firewall;wireshark;network security;penetration testing;linux;python;cryptography,16-03-2025,Cyber Security,$105k-$135k,Senior
+Software Engineer,Perez-Ford,Moodyport,kubernetes;rest api;spring;microservices;aws;git;docker,28-03-2025,Software Engineering,$90k-$120k,Mid
+Business Analyst,"Richard, Ayers and Bennett",East Tylerton,sql;business analysis;requirements gathering;agile;tableau;power bi;jira,11-05-2025,Business Analysis,$70k-$95k,Mid
+Cybersecurity Specialist,"West, Clark and Gomez",Lake Jeffery,wireshark;firewall;penetration testing;linux;cryptography,17-04-2025,Cyber Security,$105k-$135k,Senior
+Full Stack Developer,Ramirez-Allen,West Katherinestad,react;express;mongodb;git;css,26-07-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,"Clark, Valdez and Hart",North Danielle,python;cryptography;penetration testing;linux;network security;firewall,18-05-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,"Hansen, Reynolds and Williams",Riverabury,pytorch;tensorflow;computer vision;python;nlp,14-03-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Cybersecurity Specialist,"Hanson, Hayes and Scott",Martinezmouth,python;wireshark;penetration testing;cryptography;network security;firewall,21-04-2025,Cyber Security,$105k-$135k,Senior
+Senior Data Scientist,Vargas-Benson,Haydenstad,scikit-learn;tensorflow;pandas;sql;machine learning;python,06-02-2025,Data Science & Analytics,$120k-$150k,Senior
+Senior Data Scientist,"Smith, Waller and Brown",Lewisfort,python;tensorflow;pandas;sql;numpy;scikit-learn;machine learning;statistics,07-06-2025,Data Science & Analytics,$120k-$150k,Senior
+Software Engineer,"Mitchell, Li and Watts",North Phillipfort,docker;rest api;microservices;aws;java,25-05-2025,Software Engineering,$90k-$120k,Mid
+ML Engineer,Mckenzie-Solomon,Kingstad,nlp;deep learning;keras;pytorch;python;computer vision;tensorflow,20-06-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Full Stack Developer,"Day, Smith and Herrera",Laurieland,javascript;react;css;html;node.js;rest api;git,02-03-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Crane-Morales,New Joseph,rest api;html;node.js;javascript;git,04-08-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Rivera LLC,Shawnville,html;mongodb;express;javascript;node.js;css;rest api;git;react,28-03-2025,Web Development,$85k-$110k,Mid
+ML Engineer,Singh-Miller,Robinsonhaven,deep learning;pytorch;keras;computer vision;nlp;python;tensorflow,19-04-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,"Klein, Reid and Smith",Parkerbury,kubernetes;jenkins;terraform;bash;aws;ci/cd;docker;linux,16-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Espinoza Ltd,Port Vanessamouth,python;wireshark;firewall;linux;penetration testing;cryptography;network security,27-03-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,Johnson Inc,Port Seth,excel;tableau;jira;requirements gathering;power bi;sql,05-06-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,"Sanders, Mitchell and Ortiz",Lake Katelynland,terraform;ci/cd;docker;aws;linux;python;bash,01-03-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Wallace-Carroll,Singhland,linux;cryptography;python;penetration testing;firewall,07-02-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,Watson Group,New Chelseafurt,power bi;excel;business analysis;sql;jira;requirements gathering;agile;tableau,07-02-2025,Business Analysis,$70k-$95k,Mid
+Full Stack Developer,Shaw Group,South Johnview,javascript;html;rest api;express;git;react;css;node.js,13-04-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,"Johnson, Cantrell and Blanchard",Amandaville,rest api;git;react;mongodb;html;css;express;javascript;node.js,24-03-2025,Web Development,$85k-$110k,Mid
+Business Analyst,Campbell-Hutchinson,Port Melinda,jira;agile;sql;tableau;excel;power bi,11-05-2025,Business Analysis,$70k-$95k,Mid
+ML Engineer,"Brown, Hall and Smith",East David,python;tensorflow;computer vision;nlp;deep learning;keras;pytorch,19-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Business Analyst,Bennett-Roberts,South Glenn,requirements gathering;jira;agile;business analysis;sql;power bi;excel;tableau,08-03-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,Estrada-James,Petersside,python;bash;aws;kubernetes;linux,27-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Hernandez-Riggs,West Craig,python;wireshark;cryptography;penetration testing;linux;network security,27-05-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,Delgado-Obrien,Brianville,sql;agile;tableau;power bi;excel;jira;business analysis;requirements gathering,26-04-2025,Business Analysis,$70k-$95k,Mid
+Full Stack Developer,"Collins, Lewis and Davis",New Ann,javascript;react;mongodb;html;git;rest api;express;node.js;css,29-04-2025,Web Development,$85k-$110k,Mid
+ML Engineer,Hansen and Sons,Jesusville,deep learning;pytorch;computer vision;keras;tensorflow,19-04-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+ML Engineer,Martin LLC,South Joseland,deep learning;python;nlp;computer vision;tensorflow,08-06-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,Nielsen-Espinoza,New Michaelchester,aws;ci/cd;docker;python;bash,26-02-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,Perez-Mccarty,Port Brett,microservices;docker;aws;java;spring;git,06-02-2025,Software Engineering,$90k-$120k,Mid
+ML Engineer,"Summers, Barrett and Short",Lake Christopherview,tensorflow;nlp;computer vision;python;deep learning;keras,08-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Full Stack Developer,Anderson-Carter,Lake Vincentburgh,css;rest api;html;mongodb;react,16-07-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Vargas Ltd,Johnathanborough,react;css;rest api;mongodb;git;javascript,13-03-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,"Cochran, Harris and Soto",Lake Jeffreytown,firewall;python;linux;cryptography;network security,28-03-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,Chan Group,West Sylvia,aws;python;bash;terraform;ci/cd;linux;docker,23-02-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Rhodes Ltd,West Karen,wireshark;penetration testing;linux;cryptography;firewall;python,28-02-2025,Cyber Security,$105k-$135k,Senior
+Cybersecurity Specialist,Clark Inc,New Craig,cryptography;linux;wireshark;python;firewall;penetration testing;network security,03-06-2025,Cyber Security,$105k-$135k,Senior
+Cybersecurity Specialist,Fernandez Group,Jaimehaven,firewall;linux;penetration testing;wireshark;cryptography,01-03-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,Rasmussen-Wyatt,South Richardbury,linux;aws;terraform;kubernetes;docker;python;bash;jenkins,30-05-2025,Cloud & DevOps,$110k-$140k,Senior
+ML Engineer,Hale-Richardson,Allisonside,nlp;computer vision;pytorch;python;keras;deep learning,14-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Software Engineer,"King, Simmons and Jackson",Jacobhaven,rest api;kubernetes;spring;docker;git;aws;java;microservices,21-05-2025,Software Engineering,$90k-$120k,Mid
+Software Engineer,Miller-Bailey,Crawfordfurt,docker;microservices;aws;kubernetes;git;spring;rest api;java,17-03-2025,Software Engineering,$90k-$120k,Mid
+ML Engineer,Sanchez Ltd,Luceroview,computer vision;deep learning;pytorch;nlp;tensorflow;python,05-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,Bradshaw LLC,Port Amy,linux;docker;ci/cd;jenkins;bash;python,10-06-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,Weaver-Gardner,Robertfort,jenkins;ci/cd;aws;docker;kubernetes;linux;terraform;python,19-05-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Castillo-Howell,South Stephen,numpy;python;tensorflow;statistics;machine learning;pandas,03-07-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,Rios Group,East George,docker;aws;jenkins;kubernetes;terraform;python;ci/cd;linux,18-06-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Robertson-Martinez,Loveside,statistics;python;tensorflow;pandas;numpy;scikit-learn;machine learning,27-06-2025,Data Science & Analytics,$120k-$150k,Senior
+Software Engineer,Cruz-Brooks,Port Shelbymouth,spring;rest api;java;kubernetes;docker;microservices;aws,24-03-2025,Software Engineering,$90k-$120k,Mid
+Business Analyst,Estrada and Sons,Kaylamouth,business analysis;tableau;jira;agile;power bi;requirements gathering;sql;excel,12-06-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,"Brown, Cox and Jimenez",Amandaberg,jenkins;docker;bash;python;linux;aws,25-06-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Kim-Mcbride,Kennedymouth,statistics;scikit-learn;numpy;pandas;machine learning;python;tensorflow;sql,24-05-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,"Smith, Brooks and Gray",Christophermouth,docker;terraform;kubernetes;linux;jenkins;ci/cd;bash;aws,18-03-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,Knight-Carroll,Melissaville,kubernetes;git;spring;java;rest api;docker,18-05-2025,Software Engineering,$90k-$120k,Mid
+Full Stack Developer,Lara-Gibson,Pennyview,css;git;javascript;html;node.js;mongodb;react;express;rest api,15-07-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Strickland Ltd,South Richardville,rest api;mongodb;css;node.js;javascript,12-07-2025,Web Development,$85k-$110k,Mid
+Software Engineer,"Malone, Williams and Flores",Kevinburgh,kubernetes;rest api;java;spring;docker,25-03-2025,Software Engineering,$90k-$120k,Mid
+DevOps Engineer,Williams LLC,East Patrickmouth,jenkins;kubernetes;ci/cd;terraform;linux;aws;docker;bash,22-04-2025,Cloud & DevOps,$110k-$140k,Senior
+ML Engineer,Thomas-Frazier,Harrisberg,computer vision;python;tensorflow;pytorch;nlp;deep learning,23-05-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,"Richardson, Zimmerman and Jones",Colemanshire,ci/cd;aws;terraform;bash;kubernetes;jenkins;docker;linux,23-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,"Smith, Hansen and Ramirez",Gloverhaven,cryptography;network security;python;linux;penetration testing;wireshark;firewall,25-03-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,Graves-Rodgers,West Shannon,keras;deep learning;computer vision;python;nlp;tensorflow;pytorch,23-05-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Business Analyst,Humphrey Inc,Russoville,excel;sql;requirements gathering;jira;business analysis;tableau;power bi;agile,16-03-2025,Business Analysis,$70k-$95k,Mid
+Senior Data Scientist,Johnson LLC,Christineside,sql;statistics;python;pandas;scikit-learn;machine learning;numpy;tensorflow,22-05-2025,Data Science & Analytics,$120k-$150k,Senior
+Full Stack Developer,Carter Group,East Samuel,rest api;git;html;react;express;mongodb;css,17-06-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,"Espinoza, Lee and Soto",New Alexanderton,node.js;react;express;html;rest api;css;javascript;git;mongodb,07-03-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Allen-Prince,Garciaville,node.js;git;css;html;express;rest api;mongodb;react,10-04-2025,Web Development,$85k-$110k,Mid
+ML Engineer,"Carlson, Hernandez and Friedman",New John,computer vision;tensorflow;nlp;deep learning;python,21-04-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Senior Data Scientist,"Cantrell, Nelson and Miller",Dwaynefurt,statistics;scikit-learn;pandas;tensorflow;sql;numpy;python,03-07-2025,Data Science & Analytics,$120k-$150k,Senior
+Full Stack Developer,Reyes LLC,Thomasville,mongodb;react;rest api;html;javascript;express;css;node.js;git,18-02-2025,Web Development,$85k-$110k,Mid
+Software Engineer,Gibson-Simmons,Davisborough,rest api;git;microservices;aws;docker,19-02-2025,Software Engineering,$90k-$120k,Mid
+Senior Data Scientist,Francis-Dougherty,Jamesland,tensorflow;machine learning;scikit-learn;pandas;python;statistics;numpy,05-06-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,"Marshall, Randolph and Graham",Nicolebury,terraform;docker;ci/cd;aws;linux;python;jenkins,08-02-2025,Cloud & DevOps,$110k-$140k,Senior
+ML Engineer,Russo Group,North Amandaview,python;pytorch;keras;computer vision;tensorflow,01-05-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Business Analyst,"Carlson, Davis and Lee",South Danielle,agile;jira;business analysis;power bi;excel;sql,21-06-2025,Business Analysis,$70k-$95k,Mid
+Senior Data Scientist,Schneider-Williams,New James,pandas;statistics;numpy;sql;scikit-learn;tensorflow;machine learning;python,31-05-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,"Mills, Wheeler and Campbell",South James,bash;jenkins;linux;ci/cd;docker,17-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Business Analyst,Martin Inc,Harrisonborough,jira;requirements gathering;agile;tableau;power bi;excel;sql,28-04-2025,Business Analysis,$70k-$95k,Mid
+Cybersecurity Specialist,Juarez Group,North Kevin,network security;penetration testing;linux;firewall;python;wireshark,06-02-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,"Gonzalez, Kennedy and Reyes",South Tiffanybury,keras;computer vision;deep learning;pytorch;python,13-03-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Cybersecurity Specialist,Schmidt-Larson,Deleonstad,cryptography;wireshark;network security;linux;penetration testing;python;firewall,09-06-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,Schultz-Salas,Lake Joseph,jenkins;kubernetes;linux;aws;python;bash,14-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Irwin-Harris,New Sharonbury,machine learning;python;statistics;scikit-learn;pandas;tensorflow;numpy,02-07-2025,Data Science & Analytics,$120k-$150k,Senior
+Cybersecurity Specialist,Chapman-Perez,Baileyberg,firewall;python;wireshark;cryptography;network security;penetration testing;linux,21-05-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,"Anderson, Turner and Carter",West Briannaland,docker;bash;aws;ci/cd;linux;terraform;kubernetes,03-05-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Gonzales-Hensley,Evanside,python;machine learning;numpy;statistics;pandas;sql;tensorflow;scikit-learn,22-02-2025,Data Science & Analytics,$120k-$150k,Senior
+ML Engineer,Aguirre-Carey,South Masonland,computer vision;tensorflow;deep learning;python;pytorch,14-03-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+ML Engineer,"Haney, Wright and Allen",Reginaldberg,tensorflow;computer vision;python;deep learning;pytorch;keras;nlp,06-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Software Engineer,"Campbell, Boyer and Hernandez",Justinborough,java;microservices;docker;rest api;kubernetes,05-06-2025,Software Engineering,$90k-$120k,Mid
+Full Stack Developer,"Rasmussen, Sanchez and Medina",New Staceyshire,rest api;git;node.js;mongodb;css;html,07-03-2025,Web Development,$85k-$110k,Mid
+DevOps Engineer,"Holland, Mata and Rodriguez",Welchport,python;docker;ci/cd;terraform;jenkins;linux,25-05-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Hernandez-Maynard,East Cassandra,pandas;statistics;tensorflow;sql;machine learning;python;numpy,18-03-2025,Data Science & Analytics,$120k-$150k,Senior
+DevOps Engineer,Blackburn-Brown,New Thomas,aws;python;kubernetes;docker;ci/cd;terraform;jenkins,16-02-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,Elliott-Carlson,East Emily,java;git;microservices;spring;kubernetes,13-03-2025,Software Engineering,$90k-$120k,Mid
+Software Engineer,Joseph-Black,Derekmouth,docker;kubernetes;spring;aws;microservices,28-06-2025,Software Engineering,$90k-$120k,Mid
+Cybersecurity Specialist,"Smith, Newman and Larson",Miguelmouth,network security;firewall;penetration testing;python;wireshark;linux;cryptography,07-07-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,"Ochoa, Holloway and Coleman",Jeffersonchester,kubernetes;aws;ci/cd;docker;jenkins,14-05-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,"French, Rangel and Simmons",Matthewbury,numpy;python;sql;pandas;tensorflow;machine learning,19-07-2025,Data Science & Analytics,$120k-$150k,Senior
+Business Analyst,Barron Ltd,South Lisa,requirements gathering;jira;power bi;sql;agile;tableau;business analysis;excel,17-02-2025,Business Analysis,$70k-$95k,Mid
+Full Stack Developer,"Johnson, Crawford and Huff",Elizabethborough,git;javascript;express;html;mongodb;css;node.js,08-07-2025,Web Development,$85k-$110k,Mid
+Business Analyst,"Rivera, Adams and Campbell",New Jonathanmouth,excel;sql;tableau;jira;business analysis;power bi;requirements gathering;agile,26-02-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,James-Gardner,Parkerbury,ci/cd;linux;terraform;jenkins;bash;kubernetes;docker;python;aws,06-02-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Cox PLC,Port Crystal,tensorflow;pandas;sql;statistics;machine learning;scikit-learn,24-04-2025,Data Science & Analytics,$120k-$150k,Senior
+Business Analyst,"Williams, Abbott and Day",Randallview,requirements gathering;agile;tableau;business analysis;jira,26-06-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,Owens PLC,West Kathryn,docker;ci/cd;python;aws;linux;terraform;jenkins;bash,02-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Full Stack Developer,Rowe and Sons,West Christopher,express;mongodb;git;javascript;html,06-05-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,Shepherd-Garza,Bauerborough,cryptography;linux;network security;firewall;wireshark;penetration testing;python,09-07-2025,Cyber Security,$105k-$135k,Senior
+Full Stack Developer,"Shaw, Duran and Jensen",West Barbarafort,html;node.js;mongodb;express;react;javascript;css;git;rest api,25-05-2025,Web Development,$85k-$110k,Mid
+Full Stack Developer,Frazier PLC,East Cynthia,rest api;javascript;css;mongodb;node.js;git,19-06-2025,Web Development,$85k-$110k,Mid
+ML Engineer,Jennings Group,Port Joannborough,keras;pytorch;computer vision;nlp;python;deep learning;tensorflow,13-03-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,"Thompson, Salas and Davis",Wrightmouth,docker;kubernetes;linux;python;aws;jenkins;bash;terraform,30-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Business Analyst,Porter-Thompson,North Randyburgh,requirements gathering;excel;tableau;business analysis;jira;agile;sql;power bi,26-06-2025,Business Analysis,$70k-$95k,Mid
+Software Engineer,Pearson PLC,Port Jenniferside,spring;microservices;docker;aws;kubernetes,02-03-2025,Software Engineering,$90k-$120k,Mid
+Business Analyst,Phillips-Hicks,Jamiechester,jira;excel;business analysis;sql;tableau;power bi;requirements gathering;agile,12-02-2025,Business Analysis,$70k-$95k,Mid
+DevOps Engineer,Woods PLC,West Robert,bash;jenkins;aws;docker;terraform;python;ci/cd;kubernetes;linux,11-06-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Stewart-Valenzuela,Williamborough,cryptography;firewall;wireshark;python;network security,03-08-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,Fernandez-Gutierrez,Silvaville,tableau;excel;agile;jira;power bi;business analysis;requirements gathering;sql,25-04-2025,Business Analysis,$70k-$95k,Mid
+Cybersecurity Specialist,"Spencer, Smith and Perez",North Rodney,network security;linux;cryptography;wireshark;python;penetration testing;firewall,11-03-2025,Cyber Security,$105k-$135k,Senior
+Business Analyst,"Gibson, Smith and Peters",Jessicachester,jira;sql;agile;power bi;tableau;business analysis;excel;requirements gathering,13-07-2025,Business Analysis,$70k-$95k,Mid
+Business Analyst,Gray LLC,Carterland,agile;business analysis;jira;power bi;sql,25-04-2025,Business Analysis,$70k-$95k,Mid
+Cybersecurity Specialist,Young-Alvarez,Lake Erik,wireshark;firewall;penetration testing;cryptography;network security;linux,27-03-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,"Duffy, Hunter and Jones",Oliverville,ci/cd;terraform;python;kubernetes;linux,20-02-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Gibson-Alvarez,Michelletown,penetration testing;network security;cryptography;firewall;wireshark,21-06-2025,Cyber Security,$105k-$135k,Senior
+Full Stack Developer,Edwards Ltd,Brownville,react;node.js;rest api;mongodb;html;css,13-03-2025,Web Development,$85k-$110k,Mid
+Cybersecurity Specialist,Davis and Sons,South Mariaside,linux;wireshark;python;firewall;cryptography;penetration testing;network security,14-04-2025,Cyber Security,$105k-$135k,Senior
+Senior Data Scientist,Brooks-Brooks,East Jeanberg,statistics;scikit-learn;machine learning;tensorflow;python;sql;pandas;numpy,08-04-2025,Data Science & Analytics,$120k-$150k,Senior
+Business Analyst,Cochran-Maxwell,Taraberg,sql;tableau;power bi;business analysis;jira,28-02-2025,Business Analysis,$70k-$95k,Mid
+Full Stack Developer,Huynh-Fields,New Keithmouth,rest api;git;css;express;javascript;html;node.js;mongodb;react,03-03-2025,Web Development,$85k-$110k,Mid
+Business Analyst,"Miller, Wong and Carlson",New Larry,sql;agile;business analysis;tableau;requirements gathering;jira,20-02-2025,Business Analysis,$70k-$95k,Mid
+Software Engineer,"Wilson, Herrera and Freeman",East Lisa,docker;aws;rest api;git;spring,03-05-2025,Software Engineering,$90k-$120k,Mid
+ML Engineer,"Rowe, Gonzalez and Edwards",North Omarchester,deep learning;keras;pytorch;python;nlp;tensorflow,19-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+ML Engineer,"King, Morton and Peterson",Justinshire,nlp;computer vision;deep learning;pytorch;tensorflow,17-02-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Full Stack Developer,Greer-Burns,Suzanneport,mongodb;react;css;express;git;node.js,17-05-2025,Web Development,$85k-$110k,Mid
+DevOps Engineer,"Flores, Kim and Lewis",North Lindseystad,kubernetes;docker;ci/cd;jenkins;terraform;python;aws;linux,20-02-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,"Best, Walker and Miller",South Annaville,ci/cd;linux;aws;kubernetes;bash;docker;python;terraform,02-04-2025,Cloud & DevOps,$110k-$140k,Senior
+Software Engineer,Myers and Sons,North Alan,microservices;spring;java;rest api;aws;kubernetes,19-03-2025,Software Engineering,$90k-$120k,Mid
+Cybersecurity Specialist,"Castaneda, Fuller and Brown",Kleintown,python;network security;firewall;penetration testing;cryptography;linux;wireshark,24-06-2025,Cyber Security,$105k-$135k,Senior
+Software Engineer,Craig-Richmond,Bellberg,rest api;java;docker;microservices;spring;aws,01-03-2025,Software Engineering,$90k-$120k,Mid
+ML Engineer,Powers-Todd,West Jacquelineburgh,keras;deep learning;tensorflow;nlp;computer vision;pytorch;python,02-05-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,"Carter, Carroll and Lester",West Ryanhaven,bash;ci/cd;python;kubernetes;terraform;jenkins;aws;linux;docker,01-06-2025,Cloud & DevOps,$110k-$140k,Senior
+Senior Data Scientist,Gibson Inc,Jessicaberg,scikit-learn;numpy;python;tensorflow;statistics;sql;pandas;machine learning,27-05-2025,Data Science & Analytics,$120k-$150k,Senior
+Business Analyst,Stanley-Morales,West Megan,power bi;sql;excel;agile;tableau;business analysis,20-04-2025,Business Analysis,$70k-$95k,Mid
+Senior Data Scientist,"Walters, Rhodes and Owen",Owensshire,scikit-learn;sql;pandas;python;machine learning;numpy;statistics;tensorflow,10-07-2025,Data Science & Analytics,$120k-$150k,Senior
+Cybersecurity Specialist,"Walsh, Edwards and Flores",West Oliviaberg,wireshark;firewall;penetration testing;python;network security;linux;cryptography,07-02-2025,Cyber Security,$105k-$135k,Senior
+Cybersecurity Specialist,Stevens-Mayer,Spencerview,cryptography;wireshark;linux;python;firewall,03-08-2025,Cyber Security,$105k-$135k,Senior
+Senior Data Scientist,Smith Ltd,Mooreside,numpy;sql;tensorflow;statistics;pandas,07-07-2025,Data Science & Analytics,$120k-$150k,Senior
+Cybersecurity Specialist,"Fisher, Bates and Grant",North Zacharybury,penetration testing;firewall;network security;python;linux;cryptography,22-02-2025,Cyber Security,$105k-$135k,Senior
+Cybersecurity Specialist,Reyes Group,Tannerstad,linux;network security;wireshark;cryptography;firewall;python;penetration testing,29-06-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,"Hatfield, Baker and Christian",Lake Dannymouth,python;nlp;pytorch;tensorflow;computer vision;deep learning,18-06-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+DevOps Engineer,Mckee PLC,West Jennifer,ci/cd;linux;aws;jenkins;bash,28-03-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Chang Inc,North Robinborough,python;network security;linux;cryptography;wireshark;penetration testing;firewall,01-06-2025,Cyber Security,$105k-$135k,Senior
+DevOps Engineer,Anthony PLC,Kaneview,linux;docker;kubernetes;bash;aws,09-03-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,"Huang, Olson and Sullivan",Brownburgh,kubernetes;aws;ci/cd;jenkins;python;docker;linux,08-04-2025,Cloud & DevOps,$110k-$140k,Senior
+DevOps Engineer,"Coffey, Scott and Harris",Ingramtown,kubernetes;ci/cd;aws;linux;terraform;python;docker;jenkins,24-07-2025,Cloud & DevOps,$110k-$140k,Senior
+Cybersecurity Specialist,Williamson Ltd,Maryfurt,network security;firewall;wireshark;linux;python,05-04-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,Barajas PLC,Heatherland,keras;computer vision;tensorflow;pytorch;nlp,23-07-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Cybersecurity Specialist,Gonzalez Inc,Sylviaville,firewall;cryptography;network security;wireshark;penetration testing;linux;python,28-04-2025,Cyber Security,$105k-$135k,Senior
+ML Engineer,"Lopez, Price and Taylor",Carlosmouth,deep learning;computer vision;keras;pytorch;nlp,28-05-2025,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+Cybersecurity Specialist,Jones-Love,Cookechester,wireshark;linux;network security;cryptography;firewall,19-06-2025,Cyber Security,$105k-$135k,Senior
+Full Stack Developer,"Bradley, Green and Johnson",North Jeffburgh,mongodb;react;javascript;node.js;express;css;git,03-03-2025,Web Development,$85k-$110k,Mid
+Job Title,Company,Location,Skills,Date Posted,Stream,Salary_Range,Experience_Level
+Senior Data Scientist,Company57,San Francisco,python;sql;machine learning;pandas;numpy;scikit-learn;tensorflow;statistics,2024-05-25,Data Science & Analytics,$120k-$150k,Senior
+Data Analyst,Company14,Miami,python;sql;tableau;excel;pandas;statistics;power bi;data visualization,2024-06-17,Data Science & Analytics,$85k-$115k,Mid
+BI Analyst,Company30,Los Angeles,sql;tableau;excel;power bi;data modeling;business analysis,2024-07-08,Data Science & Analytics,$90k-$120k,Mid
+Data Science Manager,Company72,Boston,python;machine learning;big data;leadership;sql,2024-06-21,Data Science & Analytics,$140k-$170k,Senior
+Software Engineer,Company21,Portland,java;spring;microservices;docker;kubernetes;aws;git;rest api,2024-06-11,Software Engineering,$90k-$120k,Mid
+Backend Developer,Company8,Chicago,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2024-07-10,Software Engineering,$120k-$160k,Senior
+Frontend Developer,Company33,Seattle,javascript;react;vue;css;html;webpack;sass;typescript;angular,2024-06-10,Software Engineering,$70k-$90k,Junior
+Full Stack Developer,Company13,Austin,javascript;react;node.js;html;css;mongodb;rest api;git;express,2024-05-15,Software Engineering,$110k-$150k,Senior
+DevOps Engineer,Company59,Denver,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2024-05-21,Software Engineering,$110k-$145k,Senior
+ML Engineer,Company92,San Diego,python;tensorflow;pytorch;deep learning;nlp;computer vision;keras,2024-06-13,Artificial Intelligence & Machine Learning,$130k-$160k,Senior
+AI Research Scientist,Company44,New York,python;tensorflow;pytorch;research;nlp;computer vision;deep learning,2024-05-24,Artificial Intelligence & Machine Learning,$110k-$150k,Mid
+Deep Learning Engineer,Company81,Houston,tensorflow;pytorch;deep learning;computer vision;python;keras,2024-07-01,Artificial Intelligence & Machine Learning,$120k-$160k,Senior
+Business Analyst,Company37,Philadelphia,sql;excel;tableau;agile;jira;requirements gathering;power bi;business analysis,2024-07-16,Business Analysis,$70k-$95k,Mid
+Process Analyst,Company18,Detroit,sql;excel;process mapping;requirements gathering;bpmn,2024-05-31,Business Analysis,$80k-$110k,Mid
+Requirement Engineer,Company47,Charlotte,requirements gathering;agile;stakeholder management;jira,2024-06-22,Business Analysis,$90k-$120k,Senior
+Full Stack Developer,Company60,Phoenix,javascript;react;node.js;html;css;mongodb;rest api;git;express,2024-06-05,Web Development,$95k-$125k,Mid
+Frontend Developer,Company25,San Francisco,javascript;react;vue;css;html;webpack;sass;typescript;angular,2024-05-22,Web Development,$80k-$110k,Mid
+Backend Developer,Company3,Portland,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2024-05-16,Web Development,$85k-$115k,Mid
+Web Designer,Company49,Austin,html;css;javascript;photoshop;illustrator;ux,2024-07-19,Web Development,$70k-$95k,Junior
+Cloud Architect,Company29,San Diego,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2024-06-26,Cloud & DevOps,$130k-$170k,Senior
+DevOps Engineer,Company89,Houston,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2024-05-27,Cloud & DevOps,$120k-$150k,Senior
+Site Reliability Engineer,Company68,Seattle,python;kubernetes;system monitoring;cloud;devops;automation,2024-06-03,Cloud & DevOps,$110k-$145k,Senior
+Cybersecurity Specialist,Company53,Denver,network security;penetration testing;firewall;linux;python;wireshark;cryptography,2024-07-10,Cyber Security,$115k-$135k,Senior
+Network Security Engineer,Company35,Los Angeles,firewall;ids;ips;vpn;tcp/ip;linux;python,2024-05-16,Cyber Security,$90k-$120k,Mid
+Security Analyst,Company9,Boston,risk assessment;security policies;compliance;penetration testing,2024-05-21,Cyber Security,$85k-$110k,Mid
+Product Manager,Company16,San Francisco,agile;scrum;jira;user research;product strategy;sql;analytics;roadmap,2024-05-31,Product Management,$120k-$160k,Senior
+Product Owner,Company22,Philadelphia,agile;scrum;jira;stakeholder management;product backlog,2024-07-20,Product Management,$110k-$150k,Mid
+Product Strategist,Company19,Houston,product vision;market research;competitive analysis;roadmap,2024-06-28,Product Management,$100k-$130k,Mid
+Database Administrator,Company4,Portland,sql;mysql;postgresql;oracle;backup;recovery,2024-07-07,Database Administration,$90k-$120k,Mid
+Data Warehouse Manager,Company76,New York,sql;data modeling;etl;big data;analysis,2024-05-23,Database Administration,$110k-$150k,Senior
+UI/UX Designer,Company7,Phoenix,figma;sketch;adobe xd;user research;wireframing;prototyping;css;html,2024-06-02,Design & UI/UX,$85k-$115k,Mid
+Product Designer,Company62,Boston,figma;adobe xd;prototyping;wireframing;user research;illustrator,2024-06-20,Design & UI/UX,$90k-$120k,Mid
+Graphic Designer,Company97,Dallas,photoshop;illustrator;graphic design;branding;typography,2024-07-18,Design & UI/UX,$70k-$95k,Junior
+QA Engineer,Company66,Detroit,selenium;junit;testng;automation;jira;bug tracking;manual testing,2024-05-30,Quality Assurance,$90k-$120k,Mid
+Test Automation Engineer,Company39,Portland,selenium;cypress;junit;automation;api testing,2024-06-18,Quality Assurance,$100k-$130k,Mid
+Manual Tester,Company48,San Diego,manual testing;test cases;bug reporting;jira,2024-07-10,Quality Assurance,$60k-$80k,Junior
+Data Engineer,Company61,Charlotte,python;spark;kafka;airflow;sql;etl;data warehousing;big data,2024-06-28,Data Engineering,$120k-$150k,Senior
+ETL Developer,Company63,San Francisco,etl;sql;informatica;data warehousing;python,2024-05-22,Data Engineering,$80k-$110k,Mid
+Big Data Engineer,Company45,Chicago,hadoop;spark;hive;kafka;java;python;scala,2024-07-11,Data Engineering,$100k-$130k,Mid
+Systems Administrator,Company42,Houston,linux;windows server;networking;active directory;virtualization;monitoring,2024-05-25,IT Infrastructure,$110k-$150k,Senior
+Network Administrator,Company20,Miami,cisco;networking;firewall;routing;switching;tcp/ip,2024-06-08,IT Infrastructure,$70k-$90k,Junior
+Network Engineer,Company75,Denver,cisco;networking;routing;switching;firewall;network security;tcp/ip,2024-05-18,Network Engineering,$110k-$150k,Senior
+Telecommunications Engineer,Company80,Phoenix,telecom networks;voip;routing;switching;hardware,2024-07-13,Network Engineering,$80k-$110k,Mid
+Mobile Developer,Company27,Los Angeles,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2024-05-29,Mobile App Development,$95k-$125k,Mid
+iOS Developer,Company58,Boston,swift;objective-c;ios;xcode;iphone;mobile development,2024-05-25,Mobile App Development,$90k-$120k,Mid
+Android Developer,Company5,San Diego,java;kotlin;android;mobile development;android studio,2024-07-07,Mobile App Development,$80k-$110k,Mid
+Technical Writer,Company32,New York,documentation;technical writing;editing;manuals;api docs,2024-06-20,Technical Writing,$80k-$110k,Mid
+Documentation Specialist,Company53,Chicago,manuals;editing;technical writing;documentation management,2024-06-18,Technical Writing,$65k-$85k,Junior
+Sales Manager,Company88,Portland,sales strategy;account management;crm;customer relationships,2024-07-01,Sales & Marketing,$120k-$160k,Senior
+Marketing Specialist,Company89,San Francisco,digital marketing;seo;content marketing;social media,2024-07-11,Sales & Marketing,$80k-$110k,Mid
+Digital Marketing Analyst,Company6,Denver,seo;analytics;ppc;paid media;google ads,2024-06-30,Sales & Marketing,$85k-$115k,Mid
+HR Manager,Company26,Dallas,talent management;recruitment;employee relations;hr policies,2024-05-29,Human Resources,$100k-$130k,Mid
+Recruiter,Company44,Austin,applicant tracking;interviewing;candidate sourcing;job postings,2024-06-11,Human Resources,$70k-$90k,Junior
+Talent Acquisition Specialist,Company19,Philadelphia,recruitment;employer branding;talent sourcing;hr analytics,2024-06-02,Human Resources,$110k-$150k,Senior
+Customer Support Specialist,Company10,Miami,customer service;crm;technical support;problem solving,2024-07-02,Customer Support,$70k-$95k,Junior
+Technical Support Engineer,Company22,Chicago,help desk;troubleshooting;hardware;software;customer service,2024-05-24,Customer Support,$80k-$110k,Mid
+Financial Analyst,Company15,New York,financial modeling;budgeting;forecasting;excel;analysis,2024-06-15,Finance,$80k-$110k,Mid
+Accountant,Company95,Seattle,accounting;reconciliation;tax preparation;financial reporting,2024-05-22,Finance,$90k-$120k,Mid
+Controller,Company90,Portland,financial controls;accounting;budgeting;compliance,2024-05-29,Finance,$110k-$150k,Senior
+Job Title,Company,Location,Skills,Date Posted,Stream,Salary_Range,Experience_Level
+Senior Data Scientist,Company33,Chicago,python;sql;machine learning;pandas;numpy;scikit-learn;tensorflow;statistics,2024-07-16,Data Science & Analytics,$120k-$160k,Senior
+Data Analyst,Company87,Dallas,python;sql;tableau;excel;pandas;statistics;power bi;data visualization,2024-06-13,Data Science & Analytics,$80k-$110k,Mid
+BI Analyst,Company94,Boston,sql;tableau;excel;power bi;data modeling;business analysis,2024-07-04,Data Science & Analytics,$85k-$115k,Mid
+Data Science Manager,Company56,Seattle,python;machine learning;big data;leadership;sql,2024-07-15,Data Science & Analytics,$140k-$170k,Senior
+Software Engineer,Company58,Los Angeles,java;spring;microservices;docker;kubernetes;aws;git;rest api,2024-06-19,Software Engineering,$90k-$120k,Mid
+Backend Developer,Company93,San Diego,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2024-07-17,Software Engineering,$120k-$150k,Senior
+Frontend Developer,Company16,Austin,javascript;react;vue;css;html;webpack;sass;typescript;angular,2024-06-12,Software Engineering,$80k-$110k,Mid
+Full Stack Developer,Company87,San Francisco,javascript;react;node.js;html;css;mongodb;rest api;git;express,2024-06-23,Software Engineering,$95k-$125k,Mid
+DevOps Engineer,Company21,Houston,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2024-06-04,Software Engineering,$130k-$170k,Senior
+ML Engineer,Company62,Denver,python;tensorflow;pytorch;deep learning;nlp;computer vision;keras,2024-05-15,Artificial Intelligence & Machine Learning,$110k-$150k,Mid
+AI Research Scientist,Company64,Charlotte,python;tensorflow;pytorch;research;nlp;computer vision;deep learning,2024-05-21,Artificial Intelligence & Machine Learning,$120k-$160k,Senior
+Deep Learning Engineer,Company43,Miami,tensorflow;pytorch;deep learning;computer vision;python;keras,2024-07-13,Artificial Intelligence & Machine Learning,$130k-$170k,Senior
+Business Analyst,Company54,Boston,sql;excel;tableau;agile;jira;requirements gathering;power bi;business analysis,2024-07-17,Business Analysis,$90k-$120k,Mid
+Process Analyst,Company80,Chicago,sql;excel;process mapping;requirements gathering;bpmn,2024-06-23,Business Analysis,$80k-$110k,Mid
+Requirement Engineer,Company92,San Francisco,requirements gathering;agile;stakeholder management;jira,2024-05-29,Business Analysis,$100k-$130k,Senior
+Full Stack Developer,Company77,Seattle,javascript;react;node.js;html;css;mongodb;rest api;git;express,2024-06-17,Web Development,$85k-$115k,Mid
+Frontend Developer,Company93,Dallas,javascript;react;vue;css;html;webpack;sass;typescript;angular,2024-06-09,Web Development,$70k-$95k,Junior
+Backend Developer,Company45,San Diego,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2024-05-23,Web Development,$95k-$125k,Mid
+Web Designer,Company53,Portland,html;css;javascript;photoshop;illustrator;ux,2024-05-25,Web Development,$80k-$110k,Mid
+Cloud Architect,Company84,Denver,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2024-07-08,Cloud & DevOps,$130k-$170k,Senior
+DevOps Engineer,Company57,Boston,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2024-05-29,Cloud & DevOps,$110k-$145k,Senior
+Site Reliability Engineer,Company97,San Francisco,python;kubernetes;system monitoring;cloud;devops;automation,2024-07-01,Cloud & DevOps,$120k-$150k,Senior
+Cybersecurity Specialist,Company20,Austin,network security;penetration testing;firewall;linux;python;wireshark;cryptography,2024-06-30,Cyber Security,$105k-$135k,Senior
+Network Security Engineer,Company32,Los Angeles,firewall;ids;ips;vpn;tcp/ip;linux;python,2024-06-08,Cyber Security,$120k-$160k,Senior
+Security Analyst,Company99,New York,risk assessment;security policies;compliance;penetration testing,2024-05-28,Cyber Security,$120k-$150k,Senior
+Product Manager,Company86,Miami,agile;scrum;jira;user research;product strategy;sql;analytics;roadmap,2024-06-14,Product Management,$80k-$110k,Mid
+Product Owner,Company96,Seattle,agile;scrum;jira;stakeholder management;product backlog,2024-06-15,Product Management,$120k-$160k,Senior
+Product Strategist,Company23,Portland,product vision;market research;competitive analysis;roadmap,2024-06-24,Product Management,$85k-$110k,Mid
+Database Administrator,Company10,Charlotte,sql;mysql;postgresql;oracle;backup;recovery,2024-07-11,Database Administration,$80k-$110k,Mid
+Data Warehouse Manager,Company90,Phoenix,sql;data modeling;etl;big data;analysis,2024-07-20,Database Administration,$110k-$150k,Senior
+UI/UX Designer,Company43,Boston,figma;sketch;adobe xd;user research;wireframing;prototyping;css;html,2024-07-19,Design & UI/UX,$100k-$130k,Mid
+Product Designer,Company61,Denver,figma;adobe xd;prototyping;wireframing;user research;illustrator,2024-05-24,Design & UI/UX,$120k-$160k,Senior
+Graphic Designer,Company79,New York,photoshop;illustrator;graphic design;branding;typography,2024-06-22,Design & UI/UX,$70k-$95k,Junior
+QA Engineer,Company74,Houston,selenium;junit;testng;automation;jira;bug tracking;manual testing,2024-06-01,Quality Assurance,$80k-$110k,Mid
+Test Automation Engineer,Company12,Seattle,selenium;cypress;junit;automation;api testing,2024-06-28,Quality Assurance,$90k-$120k,Mid
+Manual Tester,Company5,San Diego,manual testing;test cases;bug reporting;jira,2024-06-03,Quality Assurance,$70k-$95k,Junior
+Data Engineer,Company35,Chicago,python;spark;kafka;airflow;sql;etl;data warehousing;big data,2024-06-25,Data Engineering,$85k-$115k,Mid
+ETL Developer,Company15,Houston,etl;sql;informatica;data warehousing;python,2024-07-13,Data Engineering,$120k-$150k,Senior
+Big Data Engineer,Company66,Boston,hadoop;spark;hive;kafka;java;python;scala,2024-07-17,Data Engineering,$110k-$150k,Senior
+Systems Administrator,Company28,San Francisco,linux;windows server;networking;active directory;virtualization;monitoring,2024-06-22,IT Infrastructure,$70k-$90k,Junior
+Network Administrator,Company91,Houston,cisco;networking;firewall;routing;switching;tcp/ip,2024-07-06,IT Infrastructure,$110k-$150k,Senior
+Network Engineer,Company3,Miami,cisco;networking;routing;switching;firewall;network security;tcp/ip,2024-05-16,Network Engineering,$70k-$95k,Junior
+Telecommunications Engineer,Company19,Chicago,telecom networks;voip;routing;switching;hardware,2024-07-09,Network Engineering,$85k-$115k,Mid
+Mobile Developer,Company25,Portland,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2024-07-08,Mobile App Development,$95k-$125k,Mid
+iOS Developer,Company48,Denver,swift;objective-c;ios;xcode;iphone;mobile development,2024-07-20,Mobile App Development,$120k-$150k,Senior
+Android Developer,Company58,Phoenix,java;kotlin;android;mobile development;android studio,2024-06-17,Mobile App Development,$90k-$120k,Mid
+Technical Writer,Company7,Boston,documentation;technical writing;editing;manuals;api docs,2024-07-04,Technical Writing,$80k-$110k,Mid
+Documentation Specialist,Company41,Los Angeles,manuals;editing;technical writing;documentation management,2024-05-24,Technical Writing,$90k-$120k,Mid
+Sales Manager,Company36,Charlotte,sales strategy;account management;crm;customer relationships,2024-05-08,Sales & Marketing,$120k-$150k,Senior
+Marketing Specialist,Company18,San Diego,digital marketing;seo;content marketing;social media,2024-07-18,Sales & Marketing,$100k-$130k,Mid
+Digital Marketing Analyst,Company92,Miami,seo;analytics;ppc;paid media;google ads,2024-05-17,Sales & Marketing,$70k-$95k,Junior
+HR Manager,Company78,Denver,talent management;recruitment;employee relations;hr policies,2024-07-16,Human Resources,$110k-$150k,Senior
+Recruiter,Company70,Portland,applicant tracking;interviewing;candidate sourcing;job postings,2024-06-23,Human Resources,$90k-$120k,Mid
+Talent Acquisition Specialist,Company74,San Francisco,recruitment;employer branding;talent sourcing;hr analytics,2024-06-11,Human Resources,$85k-$110k,Mid
+Customer Support Specialist,Company15,Los Angeles,customer service;crm;technical support;problem solving,2024-06-21,Customer Support,$80k-$110k,Mid
+Technical Support Engineer,Company68,Boston,help desk;troubleshooting;hardware;software;customer service,2024-07-17,Customer Support,$70k-$95k,Junior
+Financial Analyst,Company67,San Diego,financial modeling;budgeting;forecasting;excel;analysis,2024-06-17,Finance,$120k-$150k,Senior
+Accountant,Company80,Seattle,accounting;reconciliation;tax preparation;financial reporting,2024-05-26,Finance,$80k-$110k,Mid
+Controller,Company17,Portland,financial controls;accounting;budgeting;compliance,2024-07-16,Finance,$140k-$170k,Senior
+Frontend Developer,Company130,Memphis,javascript;react;vue;css;html;webpack;sass;typescript;angular,2025-07-31,Software Engineering,$110k-$150k,Senior
+Process Analyst,Company139,Houston,sql;excel;process mapping;requirements gathering;bpmn,2025-07-11,Business Analysis,$120k-$160k,Senior
+Telecommunications Engineer,Company149,Baltimore,telecom networks;voip;routing;switching;hardware,2025-06-26,Network Engineering,$130k-$170k,Senior
+Cloud Architect,Company125,Detroit,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-05-19,Cloud & DevOps,$60k-$80k,Junior
+Site Reliability Engineer,Company150,Baltimore,python;kubernetes;system monitoring;cloud;devops;automation,2025-07-22,Cloud & DevOps,$80k-$110k,Mid
+Marketing Specialist,Company125,Philadelphia,digital marketing;seo;content marketing;social media,2025-05-13,Sales & Marketing,$110k-$150k,Senior
+Customer Support Specialist,Company111,El Paso,customer service;crm;technical support;problem solving,2025-06-11,Customer Support,$60k-$80k,Junior
+Deep Learning Engineer,Company138,Houston,tensorflow;pytorch;deep learning;computer vision;python;keras,2025-05-19,Artificial Intelligence & Machine Learning,$110k-$150k,Senior
+Accountant,Company122,Memphis,accounting;reconciliation;tax preparation;financial reporting,2025-07-13,Finance,$130k-$170k,Senior
+Mobile Developer,Company150,Memphis,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-05-13,Mobile App Development,$60k-$80k,Junior
+Technical Support Engineer,Company112,Tucson,help desk;troubleshooting;hardware;software;customer service,2025-05-16,Customer Support,$90k-$120k,Mid
+Talent Acquisition Specialist,Company132,Memphis,recruitment;employer branding;talent sourcing;hr analytics,2025-07-01,Human Resources,$65k-$85k,Junior
+Full Stack Developer,Company150,Philadelphia,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-06-21,Software Engineering,$90k-$120k,Mid
+Full Stack Developer,Company110,Tucson,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-06-15,Web Development,$130k-$170k,Senior
+Requirement Engineer,Company129,Tucson,requirements gathering;agile;stakeholder management;jira,2025-05-11,Business Analysis,$120k-$160k,Senior
+Full Stack Developer,Company109,Houston,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-06-19,Web Development,$60k-$80k,Junior
+Requirement Engineer,Company117,Milwaukee,requirements gathering;agile;stakeholder management;jira,2025-06-19,Business Analysis,$120k-$160k,Senior
+Systems Administrator,Company106,Columbus,linux;windows server;networking;active directory;virtualization;monitoring,2025-08-01,IT Infrastructure,$110k-$150k,Senior
+Systems Administrator,Company126,El Paso,linux;windows server;networking;active directory;virtualization;monitoring,2025-07-22,IT Infrastructure,$130k-$170k,Senior
+Technical Support Engineer,Company123,Houston,help desk;troubleshooting;hardware;software;customer service,2025-06-20,Customer Support,$90k-$120k,Mid
+Product Owner,Company120,Baltimore,agile;scrum;jira;stakeholder management;product backlog,2025-07-09,Product Management,$80k-$110k,Mid
+AI Research Scientist,Company119,Memphis,python;tensorflow;pytorch;research;nlp;computer vision;deep learning,2025-06-10,Artificial Intelligence & Machine Learning,$120k-$160k,Senior
+Business Analyst,Company122,Milwaukee,sql;excel;tableau;agile;jira;requirements gathering;power bi;business analysis,2025-07-23,Business Analysis,$90k-$120k,Mid
+Network Security Engineer,Company121,Albuquerque,firewall;ids;ips;vpn;tcp/ip;linux;python,2025-07-22,Cyber Security,$120k-$160k,Senior
+QA Engineer,Company123,Tucson,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-06-15,Quality Assurance,$80k-$110k,Mid
+Product Strategist,Company110,Detroit,product vision;market research;competitive analysis;roadmap,2025-07-19,Product Management,$100k-$130k,Mid
+Mobile Developer,Company107,Columbus,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-06-08,Mobile App Development,$85k-$115k,Mid
+Manual Tester,Company133,El Paso,manual testing;test cases;bug reporting;jira,2025-06-22,Quality Assurance,$60k-$80k,Junior
+Data Science Manager,Company107,Houston,python;machine learning;big data;leadership;sql,2025-06-18,Data Science & Analytics,$140k-$170k,Senior
+Backend Developer,Company124,Memphis,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2025-07-18,Web Development,$120k-$160k,Senior
+ETL Developer,Company111,Philadelphia,etl;sql;informatica;data warehousing;python,2025-07-02,Data Engineering,$120k-$150k,Senior
+Talent Acquisition Specialist,Company114,Detroit,recruitment;employer branding;talent sourcing;hr analytics,2025-07-17,Human Resources,$85k-$110k,Mid
+Big Data Engineer,Company138,Columbus,hadoop;spark;hive;kafka;java;python;scala,2025-06-11,Data Engineering,$110k-$150k,Senior
+Systems Administrator,Company121,Baltimore,linux;windows server;networking;active directory;virtualization;monitoring,2025-06-24,IT Infrastructure,$80k-$110k,Mid
+Full Stack Developer,Company109,Tucson,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-08-02,Web Development,$130k-$170k,Senior
+Graphic Designer,Company112,Milwaukee,photoshop;illustrator;graphic design;branding;typography,2025-06-16,Design & UI/UX,$70k-$95k,Junior
+Documentation Specialist,Company125,Tucson,manuals;editing;technical writing;documentation management,2025-07-05,Technical Writing,$90k-$120k,Mid
+Product Designer,Company108,Memphis,figma;adobe xd;prototyping;wireframing;user research;illustrator,2025-06-14,Design & UI/UX,$120k-$160k,Senior
+DevOps Engineer,Company117,Memphis,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2025-07-19,Cloud & DevOps,$130k-$170k,Senior
+Network Engineer,Company116,El Paso,cisco;networking;routing;switching;firewall;network security;tcp/ip,2025-06-09,Network Engineering,$100k-$130k,Mid
+iOS Developer,Company116,Houston,swift;objective-c;ios;xcode;iphone;mobile development,2025-06-06,Mobile App Development,$120k-$150k,Senior
+Sales Manager,Company120,Albuquerque,sales strategy;account management;crm;customer relationships,2025-07-01,Sales & Marketing,$120k-$150k,Senior
+Recruiter,Company139,Detroit,applicant tracking;interviewing;candidate sourcing;job postings,2025-06-18,Human Resources,$90k-$120k,Mid
+Financial Analyst,Company115,Tucson,financial modeling;budgeting;forecasting;excel;analysis,2025-06-28,Finance,$80k-$110k,Mid
+Cloud Architect,Company144,El Paso,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-07-18,Cloud & DevOps,$120k-$150k,Senior
+Web Designer,Company120,Memphis,html;css;javascript;photoshop;illustrator;ux,2025-07-16,Web Development,$70k-$95k,Junior
+Controller,Company136,Houston,financial controls;accounting;budgeting;compliance,2025-07-10,Finance,$140k-$170k,Senior
+Telecommunications Engineer,Company114,Baltimore,telecom networks;voip;routing;switching;hardware,2025-07-29,Network Engineering,$130k-$170k,Senior
+Test Automation Engineer,Company132,Detroit,selenium;cypress;junit;automation;api testing,2025-06-28,Quality Assurance,$120k-$160k,Senior
+Security Analyst,Company111,Columbus,risk assessment;security policies;compliance;penetration testing,2025-06-15,Cyber Security,$80k-$110k,Mid
+HR Manager,Company130,Memphis,talent management;recruitment;employee relations;hr policies,2025-06-29,Human Resources,$110k-$150k,Senior
+Data Engineer,Company121,Houston,python;spark;kafka;airflow;sql;etl;data warehousing;big data,2025-06-13,Data Engineering,$85k-$115k,Mid
+Manual Tester,Company141,Baltimore,manual testing;test cases;bug reporting;jira,2025-07-13,Quality Assurance,$65k-$85k,Junior
+Financial Analyst,Company126,Tucson,financial modeling;budgeting;forecasting;excel;analysis,2025-07-01,Finance,$120k-$150k,Senior
+Technical Writer,Company150,Detroit,documentation;technical writing;editing;manuals;api docs,2025-07-04,Technical Writing,$110k-$150k,Senior
+Sales Manager,Company112,Milwaukee,sales strategy;account management;crm;customer relationships,2025-07-20,Sales & Marketing,$130k-$170k,Senior
+QA Engineer,Company129,Houston,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-06-22,Quality Assurance,$100k-$130k,Mid
+Site Reliability Engineer,Company117,El Paso,python;kubernetes;system monitoring;cloud;devops;automation,2025-07-08,Cloud & DevOps,$115k-$135k,Senior
+Big Data Engineer,Company113,Columbus,hadoop;spark;hive;kafka;java;python;scala,2025-07-12,Data Engineering,$130k-$170k,Senior
+Technical Support Engineer,Company118,Tucson,help desk;troubleshooting;hardware;software;customer service,2025-07-23,Customer Support,$90k-$120k,Mid
+Mobile Developer,Company142,Detroit,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-07-10,Mobile App Development,$95k-$125k,Mid
+Database Administrator,Company140,Albuquerque,sql;mysql;postgresql;oracle;backup;recovery,2025-07-03,Database Administration,$80k-$110k,Mid
+Network Administrator,Company133,Milwaukee,cisco;networking;firewall;routing;switching;tcp/ip,2025-07-31,IT Infrastructure,$120k-$160k,Senior
+Product Manager,Company126,Houston,agile;scrum;jira;user research;product strategy;sql;analytics;roadmap,2025-07-11,Product Management,$130k-$170k,Senior
+Frontend Developer,Company108,Houston,javascript;react;vue;css;html;webpack;sass;typescript;angular,2025-07-23,Software Engineering,$60k-$80k,Junior
+Deep Learning Engineer,Company110,Houston,tensorflow;pytorch;deep learning;computer vision;python;keras,2025-07-15,Artificial Intelligence & Machine Learning,$100k-$130k,Mid
+Business Analyst,Company124,Columbus,sql;excel;tableau;agile;jira;requirements gathering;power bi;business analysis,2025-06-30,Business Analysis,$90k-$120k,Mid
+Cloud Architect,Company131,Milwaukee,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-07-06,Cloud & DevOps,$140k-$170k,Senior
+Documentation Specialist,Company120,Albuquerque,manuals;editing;technical writing;documentation management,2025-07-29,Technical Writing,$80k-$110k,Mid
+Security Analyst,Company148,El Paso,risk assessment;security policies;compliance;penetration testing,2025-06-16,Cyber Security,$85k-$110k,Mid
+Process Analyst,Company122,Milwaukee,sql;excel;process mapping;requirements gathering;bpmn,2025-07-27,Business Analysis,$130k-$170k,Senior
+HR Manager,Company140,Houston,talent management;recruitment;employee relations;hr policies,2025-07-05,Human Resources,$110k-$150k,Senior
+Mobile Developer,Company142,Memphis,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-06-26,Mobile App Development,$110k-$150k,Senior
+QA Engineer,Company147,Columbus,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-07-25,Quality Assurance,$120k-$150k,Senior
+BI Analyst,Company122,Baltimore,sql;tableau;excel;power bi;data modeling;business analysis,2025-06-03,Data Science & Analytics,$85k-$115k,Mid
+Test Automation Engineer,Company148,Detroit,selenium;cypress;junit;automation;api testing,2025-07-14,Quality Assurance,$70k-$95k,Junior
+Cloud Architect,Company119,Detroit,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-07-17,Cloud & DevOps,$100k-$130k,Mid
+Cloud Architect,Company105,Houston,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-06-30,Cloud & DevOps,$130k-$170k,Senior
+Recruiter,Company143,Memphis,applicant tracking;interviewing;candidate sourcing;job postings,2025-07-13,Human Resources,$90k-$120k,Mid
+Full Stack Developer,Company134,Columbus,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-06-24,Web Development,$95k-$125k,Mid
+Full Stack Developer,Company110,Milwaukee,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-07-16,Web Development,$95k-$125k,Mid
+Data Science Manager,Company118,Albuquerque,python;machine learning;big data;leadership;sql,2025-07-19,Data Science & Analytics,$140k-$170k,Senior
+QA Engineer,Company101,El Paso,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-06-23,Quality Assurance,$110k-$150k,Senior
+Network Engineer,Company132,Milwaukee,cisco;networking;routing;switching;firewall;network security;tcp/ip,2025-07-14,Network Engineering,$85k-$110k,Mid
+Recruiter,Company123,Memphis,applicant tracking;interviewing;candidate sourcing;job postings,2025-06-19,Human Resources,$70k-$95k,Junior
+Senior Data Scientist,Company107,Columbus,python;sql;machine learning;pandas;numpy;scikit-learn;tensorflow;statistics,2025-07-10,Data Science & Analytics,$130k-$170k,Senior
+Customer Support Specialist,Company111,Detroit,customer service;crm;technical support;problem solving,2025-07-28,Customer Support,$70k-$95k,Junior
+Process Analyst,Company130,Memphis,sql;excel;process mapping;requirements gathering;bpmn,2025-06-22,Business Analysis,$80k-$110k,Mid
+Backend Developer,Company135,Houston,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2025-07-13,Software Engineering,$110k-$145k,Senior
+Documentation Specialist,Company120,Baltimore,manuals;editing;technical writing;documentation management,2025-07-06,Technical Writing,$90k-$120k,Mid
+Financial Analyst,Company142,Baltimore,financial modeling;budgeting;forecasting;excel;analysis,2025-07-25,Finance,$85k-$110k,Mid
+Manual Tester,Company102,El Paso,manual testing;test cases;bug reporting;jira,2025-06-17,Quality Assurance,$60k-$80k,Junior
+Graphic Designer,Company145,El Paso,photoshop;illustrator;graphic design;branding;typography,2025-06-12,Design & UI/UX,$70k-$95k,Junior
+Accountant,Company142,Baltimore,accounting;reconciliation;tax preparation;financial reporting,2025-07-03,Finance,$120k-$150k,Senior
+Controller,Company122,Milwaukee,financial controls;accounting;budgeting;compliance,2025-07-24,Finance,$130k-$170k,Senior
+Big Data Engineer,Company112,Houston,hadoop;spark;hive;kafka;java;python;scala,2025-06-26,Data Engineering,$110k-$150k,Senior
+Deep Learning Engineer,Company127,El Paso,tensorflow;pytorch;deep learning;computer vision;python;keras,2025-07-08,Artificial Intelligence & Machine Learning,$140k-$170k,Senior
+Sales Manager,Company137,Albuquerque,sales strategy;account management;crm;customer relationships,2025-07-15,Sales & Marketing,$120k-$150k,Senior
+Full Stack Developer,Company121,Memphis,javascript;react;node.js;html;css;mongodb;rest api;git;express,2025-07-21,Web Development,$120k-$150k,Senior
+Mobile Developer,Company113,Milwaukee,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-07-24,Mobile App Development,$120k-$150k,Senior
+ML Engineer,Company109,Baltimore,python;tensorflow;pytorch;deep learning;nlp;computer vision;keras,2025-07-19,Artificial Intelligence & Machine Learning,$130k-$170k,Senior
+Cloud Architect,Company145,Houston,aws;azure;gcp;kubernetes;terraform;microservices;docker;serverless,2025-06-21,Cloud & DevOps,$100k-$130k,Mid
+DevOps Engineer,Company124,Baltimore,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2025-07-23,Cloud & DevOps,$120k-$160k,Senior
+Product Owner,Company137,Memphis,agile;scrum;jira;stakeholder management;product backlog,2025-07-07,Product Management,$130k-$170k,Senior
+Senior Data Scientist,Company110,Columbus,python;sql;machine learning;pandas;numpy;scikit-learn;tensorflow;statistics,2025-07-11,Data Science & Analytics,$120k-$160k,Senior
+BI Analyst,Company121,Houston,sql;tableau;excel;power bi;data modeling;business analysis,2025-07-18,Data Science & Analytics,$90k-$120k,Mid
+HR Manager,Company136,Baltimore,talent management;recruitment;employee relations;hr policies,2025-07-20,Human Resources,$100k-$130k,Mid
+ETL Developer,Company114,Albuquerque,etl;sql;informatica;data warehousing;python,2025-07-13,Data Engineering,$85k-$115k,Mid
+QA Engineer,Company144,Memphis,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-06-20,Quality Assurance,$120k-$160k,Senior
+Product Strategist,Company116,Houston,product vision;market research;competitive analysis;roadmap,2025-07-30,Product Management,$120k-$150k,Senior
+Documentation Specialist,Company128,El Paso,manuals;editing;technical writing;documentation management,2025-07-04,Technical Writing,$70k-$90k,Junior
+Marketing Specialist,Company126,El Paso,digital marketing;seo;content marketing;social media,2025-07-05,Sales & Marketing,$110k-$150k,Senior
+Data Science Manager,Company142,Albuquerque,python;machine learning;big data;leadership;sql,2025-07-08,Data Science & Analytics,$130k-$170k,Senior
+Project Manager,Company130,Detroit,project management;agile;jira;stakeholder management;roadmap,2025-07-21,Product Management,$120k-$160k,Senior
+UI/UX Designer,Company139,Houston,figma;sketch;adobe xd;user research;wireframing;prototyping;css;html,2025-07-24,Design & UI/UX,$85k-$110k,Mid
+Data Warehouse Manager,Company132,Albuquerque,sql;data modeling;etl;big data;analysis,2025-07-23,Database Administration,$120k-$150k,Senior
+Web Designer,Company139,Memphis,html;css;javascript;photoshop;illustrator;ux,2025-07-19,Web Development,$70k-$95k,Junior
+Linux Engineer,Company125,Houston,linux;bash;scripting;docker;virtualization,2025-07-17,IT Infrastructure,$110k-$150k,Senior
+Financial Analyst,Company111,Milwaukee,financial modeling;budgeting;forecasting;excel;analysis,2025-07-28,Finance,$70k-$110k,Mid
+Sales Manager,Company143,Houston,sales strategy;account management;crm;customer relationships,2025-07-26,Sales & Marketing,$100k-$130k,Mid
+Mobile Developer,Company114,Memphis,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-07-07,Mobile App Development,$85k-$115k,Mid
+DevOps Engineer,Company147,Columbus,aws;docker;kubernetes;terraform;jenkins;linux;python;bash;ci/cd,2025-06-14,Cloud & DevOps,$90k-$120k,Mid
+Manual Tester,Company131,Detroit,manual testing;test cases;bug reporting;jira,2025-07-05,Quality Assurance,$70k-$95k,Junior
+Network Administrator,Company115,Tucson,cisco;networking;firewall;routing;switching;tcp/ip,2025-07-31,IT Infrastructure,$100k-$130k,Mid
+Documentation Specialist,Company123,Albuquerque,manuals;editing;technical writing;documentation management,2025-07-15,Technical Writing,$85k-$115k,Mid
+QA Engineer,Company129,El Paso,selenium;junit;testng;automation;jira;bug tracking;manual testing,2025-07-09,Quality Assurance,$90k-$120k,Mid
+HR Manager,Company127,Houston,talent management;recruitment;employee relations;hr policies,2025-07-01,Human Resources,$110k-$150k,Senior
+Controller,Company112,Columbus,financial controls;accounting;budgeting;compliance,2025-07-11,Finance,$110k-$150k,Senior
+Product Designer,Company141,Baltimore,figma;adobe xd;prototyping;wireframing;user research;illustrator,2025-07-24,Design & UI/UX,$120k-$170k,Senior
+Technical Writer,Company110,El Paso,documentation;technical writing;editing;manuals;api docs,2025-07-18,Technical Writing,$85k-$115k,Mid
+Network Engineer,Company113,Detroit,cisco;networking;routing;switching;firewall;network security;tcp/ip,2025-07-25,Network Engineering,$120k-$160k,Senior
+Sales Manager,Company101,Albuquerque,sales strategy;account management;crm;customer relationships,2025-07-19,Sales & Marketing,$130k-$170k,Senior
+Deep Learning Engineer,Company105,Detroit,tensorflow;pytorch;deep learning;computer vision;python;keras,2025-07-12,Artificial Intelligence & Machine Learning,$130k-$170k,Senior
+Data Analyst,Company114,Columbus,python;sql;tableau;excel;pandas;statistics;power bi;data visualization,2025-07-17,Data Science & Analytics,$120k-$150k,Mid
+Security Analyst,Company117,Albuquerque,risk assessment;security policies;compliance;penetration testing,2025-07-26,Cyber Security,$100k-$130k,Senior
+Big Data Engineer,Company143,Baltimore,hadoop;spark;hive;kafka;java;python;scala,2025-07-03,Data Engineering,$85k-$115k,Mid
+Customer Support Specialist,Company104,Houston,customer service;crm;technical support;problem solving,2025-07-09,Customer Support,$110k-$150k,Senior
+Manual Tester,Company130,Memphis,manual testing;test cases;bug reporting;jira,2025-07-08,Quality Assurance,$65k-$85k,Junior
+Frontend Developer,Company110,Albuquerque,javascript;react;vue;css;html;webpack;sass;typescript;angular,2025-06-30,Software Engineering,$95k-$125k,Mid
+Marketing Specialist,Company105,Tucson,digital marketing;seo;content marketing;social media,2025-07-20,Sales & Marketing,$100k-$130k,Mid
+Network Security Engineer,Company131,Memphis,firewall;ids;ips;vpn;tcp/ip;linux;python,2025-07-07,Cyber Security,$110k-$150k,Senior
+Recruiter,Company105,Baltimore,applicant tracking;interviewing;candidate sourcing;job postings,2025-07-17,Human Resources,$70k-$90k,Junior
+Site Reliability Engineer,Company117,Columbus,python;kubernetes;system monitoring;cloud;devops;automation,2025-07-02,Cloud & DevOps,$100k-$130k,Mid
+Database Administrator,Company145,Milwaukee,sql;mysql;postgresql;oracle;backup;recovery,2025-07-29,Database Administration,$110k-$150k,Senior
+Financial Analyst,Company118,El Paso,financial modeling;budgeting;forecasting;excel;analysis,2025-07-11,Finance,$85k-$110k,Mid
+Recruiter,Company130,Memphis,applicant tracking;interviewing;candidate sourcing;job postings,2025-06-29,Human Resources,$100k-$130k,Mid
+Product Designer,Company131,Albuquerque,figma;adobe xd;prototyping;wireframing;user research;illustrator,2025-07-23,Design & UI/UX,$70k-$95k,Junior
+Mobile Developer,Company112,Memphis,swift;kotlin;react native;ios;android;api;xcode;flutter;dart,2025-07-09,Mobile App Development,$60k-$80k,Junior
+Linux Engineer,Company106,Baltimore,linux;bash;scripting;docker;virtualization,2025-07-18,IT Infrastructure,$110k-$150k,Senior
+Backend Developer,Company106,Columbus,python;django;postgresql;redis;docker;linux;git;rest api;microservices,2025-06-20,Software Engineering,$120k-$160k,Senior
+Test Automation Engineer,Company132,Tucson,selenium;cypress;junit;automation;api testing,2025-07-25,Quality Assurance,$85k-$110k,Mid
+Big Data Engineer,Company123,Milwaukee,hadoop;spark;hive;kafka;java;python;scala,2025-07-10,Data Engineering,$110k-$150k,Senior
+Product Manager,Company111,Baltimore,agile;scrum;jira;user research;product strategy;sql;analytics;roadmap,2025-07-16,Product Management,$120k-$160k,Senior
+Data Science Manager,Company102,Detroit,python;machine learning;big data;leadership;sql,2025-07-01,Data Science & Analytics,$140k-$170k,Senior

@@ -1,0 +1,30 @@
+# Virtual Environment
+# Ignore the virtual environment folder to avoid committing large library files.
+venv/
+env/
+*.env
+
+# Python cache files and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+logs/
+*.log
+
+# Large Data & Model Files
+# It's a best practice to not commit large data or trained model files to Git.
+data/
+models/
+
+# IDE / Editor specific settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Operating System files
+.DS_Store
+Thumbs.db
