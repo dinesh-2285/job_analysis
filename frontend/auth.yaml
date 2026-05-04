@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: "$2b$12$e.y.gLmjhaxbj/oMaUZIoe5KYgq43r7Rk6UMpS218FJU7/cJ0OdRC"
+cookie:
+  name: job_analytics_auth
+  key: change-me
+  expiry_days: 7

@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: job-analytics-api
+    env: docker
+    dockerfilePath: infra/Dockerfile.backend
+    plan: free
+    envVars:
+      - key: ENVIRONMENT
+        value: prod
+  - type: web
+    name: job-analytics-frontend
+    env: docker
+    dockerfilePath: infra/Dockerfile.frontend
+    plan: free
+    envVars:
+      - key: API_BASE_URL
+        value: https://job-analytics-api.onrender.com
