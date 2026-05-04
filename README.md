@@ -46,28 +46,18 @@ A comprehensive, end-to-end platform built with **Python** and **Streamlit** for
 ## 📂 Project Structure
 
 ```
-
-job\_analysis/
-├── data/
-│   ├── raw/                     # Raw LinkedIn job CSVs
-│   └── processed/               # Cleaned, ready-to-use datasets
-├── job\_analysis/
-│   └── config.py                # File paths & global constants
-├── logs/
-│   └── data\_ingestion.log       # Logs for data pipeline
-├── src/
-│   ├── app.py                   # Main entry-point (Streamlit UI)
-│   ├── dashboard.py             # Job analytics dashboard
-│   ├── eda\_module.py            # EDA engine for charts and stats
-│   ├── resume\_interface.py      # Streamlit UI for resume matcher
-│   ├── resume\_processor\_advanced.py # Resume parsing & matching logic
-│   ├── ml\_models\_enhanced.py    # Machine Learning logic
-├── venv/                        # Virtual environment (excluded in .gitignore)
-├── .gitignore
-├── README.md
+job_analysis/
+├── backend/                     # FastAPI backend & database logic
+├── frontend/                    # Streamlit multi-page UI
+├── ml/                          # ML pipelines & model artifacts
+├── infra/                       # Docker and deployment configs
+├── data/                        # Raw/processed data (optional)
+├── tests/                       # Pytest suite
+├── .env.example                 # Environment variables template
+├── docker-compose.yml           # Local orchestration
+├── Makefile                     # Common commands
 └── requirements.txt             # Python dependencies
-
-````
+```
 
 ---
 
@@ -106,10 +96,19 @@ pip install -r requirements.txt
 
 ## 🚀 Run the App
 
-Launch the platform locally with:
-
+### Backend API
 ```bash
-streamlit run src/app.py
+uvicorn backend.app.main:app --reload
+```
+
+### Frontend
+```bash
+streamlit run frontend/app.py
+```
+
+### Docker Compose
+```bash
+docker-compose up --build
 ```
 
 Open your browser at [http://localhost:8501](http://localhost:8501)
@@ -122,6 +121,10 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 2. **Analytics Dashboard** – Explore job trends, skill demands, top companies.
 3. **Resume Matcher** – Upload a resume and get job matches + improvement tips.
 4. **ML Models** – Predict job streams or forecast job demand.
+5. **Job Search** – Browse real-time job listings from the database.
+
+### 🔐 Default Login
+Use `admin / admin123` for the default demo account.
 
 ---
 
