@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Iterable
 
 import requests
@@ -61,6 +61,10 @@ def fetch_linkedin_jobs(keyword: str = "data", location: str = "United States") 
                 location_tag = card.select_one(".job-search-card__location")
                 job_link = card.select_one("a")
                 job_id = card.get("data-entity-urn", "").split(":")[-1]
+                if not job_id:
+                    job_id = job_link.get("href") if job_link else ""
+                if not job_id:
+                    continue
                 jobs.append(
                     {
                         "id": job_id or job_link.get("href", ""),
@@ -163,7 +167,7 @@ def upsert_jobs(db: Session, jobs: Iterable[dict]) -> int:
 
 
 def ingest_all_sources(db: Session) -> dict:
-    version_tag = f"v{datetime.utcnow():%Y%m%d}"
+    version_tag = f"v{datetime.now(timezone.utc):%Y%m%d}"
     remotive_jobs = [normalize_remotive(job, version_tag) for job in fetch_remotive_jobs()]
     adzuna_jobs = [normalize_adzuna(job, version_tag) for job in fetch_adzuna_jobs()]
     linkedin_jobs = [normalize_linkedin(job, version_tag) for job in fetch_linkedin_jobs()]

@@ -39,7 +39,7 @@ def list_jobs(
     stream: str | None = None,
     location: str | None = None,
     search: str | None = None,
-    limit: int = Query(50, le=200),
+    limit: int = Query(50, le=200, ge=1),
     offset: int = 0,
     db: Session = Depends(get_db),
 ) -> JobList:

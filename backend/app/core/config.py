@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     openai_model: str = "gpt-4o-mini"
 
     auth_cookie_name: str = "job_analytics_auth"
-    auth_cookie_key: str = "change-me"
+    auth_cookie_key: str | None = None
     auth_cookie_expiry_days: int = 7
 
 

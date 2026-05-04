@@ -22,8 +22,8 @@ def test_upsert_jobs_inserts():
             "skills": "python, sql",
             "stream": "Data",
             "posted_at": None,
-            "salary_min": None,
-            "salary_max": None,
+            "salary_min": 90000,
+            "salary_max": 110000,
             "data_version": "v1",
         }
     ]
@@ -31,3 +31,6 @@ def test_upsert_jobs_inserts():
     inserted = upsert_jobs(session, jobs)
     assert inserted == 1
     assert session.query(JobPosting).count() == 1
+
+    inserted_again = upsert_jobs(session, jobs)
+    assert inserted_again == 0

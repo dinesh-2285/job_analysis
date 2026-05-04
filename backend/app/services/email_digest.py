@@ -1,6 +1,9 @@
 import os
 import smtplib
+import ssl
 from email.message import EmailMessage
+
+from loguru import logger
 
 from sqlalchemy.orm import Session
 
@@ -23,7 +26,21 @@ def send_weekly_digest(db: Session, recipient: str) -> None:
     msg["To"] = recipient
     msg.set_content(body or "No new jobs yet.")
 
-    with smtplib.SMTP(smtp_host) as server:
-        server.starttls()
-        server.login(smtp_user, smtp_password)
-        server.send_message(msg)
+    smtp_port = int(os.getenv("SMTP_PORT", "587"))
+    context = ssl.create_default_context()
+    try:
+        if smtp_port == 465:
+            with smtplib.SMTP_SSL(smtp_host, smtp_port, context=context) as server:
+                server.login(smtp_user, smtp_password)
+                server.send_message(msg)
+        else:
+            with smtplib.SMTP(smtp_host, smtp_port) as server:
+                server.starttls(context=context)
+                server.login(smtp_user, smtp_password)
+                server.send_message(msg)
+    except smtplib.SMTPAuthenticationError as exc:
+        logger.error(f"SMTP authentication failed: {exc}")
+    except smtplib.SMTPConnectError as exc:
+        logger.error(f"SMTP connection failed: {exc}")
+    except smtplib.SMTPException as exc:
+        logger.error(f"SMTP error sending digest: {exc}")

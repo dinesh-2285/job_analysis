@@ -1,7 +1,7 @@
 import streamlit as st
 
 from frontend.auth import require_auth
-from frontend.services.api_client import get
+from frontend.services.api_client import get, post
 
 
 st.set_page_config(page_title="Job Search", page_icon="🔎", layout="wide")
@@ -42,7 +42,5 @@ for job in jobs:
         st.write(job.get("location"))
         st.write(job.get("description", "")[:400])
         if st.button("Bookmark", key=f"bookmark-{job['id']}"):
-            from frontend.services.api_client import post
-
             post("/bookmarks", {"username": username, "job_id": job["id"]})
             st.success("Bookmarked")

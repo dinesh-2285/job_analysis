@@ -23,6 +23,7 @@ def extract_pdf_text(file_bytes: bytes) -> str:
         reader = PdfReader(BytesIO(file_bytes))
         return "\n".join(page.extract_text() or "" for page in reader.pages)
     except Exception:
+        # Fallback to PyMuPDF for PDFs with complex layouts.
         try:
             doc = fitz.open(stream=file_bytes, filetype="pdf")
             return "\n".join(page.get_text() for page in doc)

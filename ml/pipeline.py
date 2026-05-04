@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import pickle
+from functools import lru_cache
 from pathlib import Path
 
 import joblib
@@ -22,6 +23,14 @@ from statsmodels.tsa.arima.model import ARIMA
 ARTIFACT_DIR = Path(__file__).resolve().parent / "artifacts"
 ARTIFACT_DIR.mkdir(parents=True, exist_ok=True)
 
+SALARY_VARIANCE_LOWER = 0.9
+SALARY_VARIANCE_UPPER = 1.1
+
+
+@lru_cache
+def get_embedder() -> SentenceTransformer:
+    return SentenceTransformer("all-MiniLM-L6-v2")
+
 
 def save_metadata(name: str, metadata: dict) -> None:
     path = ARTIFACT_DIR / f"{name}_metadata.json"
@@ -33,8 +42,8 @@ def train_stream_classifier(df: pd.DataFrame) -> dict:
     if df.empty:
         return {"accuracy": 0, "report": {}}
 
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    embeddings = model.encode(df["description"].tolist())
+    embedder = get_embedder()
+    embeddings = embedder.encode(df["description"].tolist())
 
     encoder = LabelEncoder()
     labels = encoder.fit_transform(df["stream"].tolist())
@@ -47,7 +56,7 @@ def train_stream_classifier(df: pd.DataFrame) -> dict:
     accuracy = float(classifier.score(X_test, y_test))
     report = classification_report(y_test, classifier.predict(X_test), output_dict=True)
 
-    joblib.dump(model, ARTIFACT_DIR / "stream_embedder.joblib")
+    joblib.dump(embedder, ARTIFACT_DIR / "stream_embedder.joblib")
     joblib.dump(classifier, ARTIFACT_DIR / "stream_classifier.joblib")
     joblib.dump(encoder, ARTIFACT_DIR / "stream_encoder.joblib")
     save_metadata(
@@ -140,4 +149,4 @@ def estimate_salary(stream: str, location: str | None) -> tuple[float | None, fl
     features = pd.DataFrame([{"stream": stream, "location": location or "unknown"}])
     X = encoder.transform(features)
     estimate = float(model.predict(X)[0])
-    return estimate * 0.9, estimate * 1.1
+    return estimate * SALARY_VARIANCE_LOWER, estimate * SALARY_VARIANCE_UPPER
