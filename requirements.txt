@@ -33,4 +33,4 @@ schedule>=1.2.0
 
 # System and utility
 typing-extensions>=4.5.0
-pydantic
+pydantic==2.6.4
